@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charles-juliet
+- 👋 Hi, I’m @Dimejesi francisca
 - 👀 I’m interested in ...web design, software engineering.
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...
