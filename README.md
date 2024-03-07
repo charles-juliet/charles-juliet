@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dimejesi francisca
+- 👋 Hi, I’m @Dimejesi onyine francisca
 - 👀 I’m interested in ...web design, software engineering.
 - 🌱 I’m currently learning ...software engineering
 - 💞️ I’m looking to collaborate on ...
